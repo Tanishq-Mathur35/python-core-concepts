@@ -23,7 +23,7 @@ A comprehensive, topic-modular Python reference repository covering core languag
 
 ## Repository Structure
 
-```
+```bash
 tanishq-mathur35-python-core-concepts/
 ├── Advanced_Python.py              # Higher-order functions, decorators, comprehensions
 ├── Basics.py                       # Primitive types, type coercion, string operations, I/O
